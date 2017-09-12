@@ -19,8 +19,6 @@ body{
 
 .paragraph{
 	width:600px;
-	height:400px;
-	position:absolute;
 	top:0;
 	left:0;
 	right:0;
@@ -28,6 +26,7 @@ body{
 	margin:auto;
 	text-align:center;
 	color:white;
+	background-color: rgba(0,0,0,0.3);
 }
 
 h1,h2{
