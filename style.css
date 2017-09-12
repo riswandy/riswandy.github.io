@@ -7,13 +7,14 @@ body{
 
 .bio{
 	width:600px;
-	height:400px;
+	height:450px;
 	position:absolute;
 	top:0;
 	left:0;
 	right:0;
 	bottom:0;
 	margin:auto;
+	color:white;
 	text-align:center;
 }
 
@@ -38,7 +39,7 @@ h2{
 
 .social-links{margin-top:50px;}
 a{
-	color:#333;
+	color:white;
 	text-decoration:none;
 }
 a:hover{text-decoration:underline}
